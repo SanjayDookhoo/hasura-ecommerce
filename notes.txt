@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=wRCpNpL9AWo&ab_channel=Hasura
+
+need to run $ hasura seeds apply
+    for there to be data in the database
+
+need to change refresh_token to be some string, anything is fine, otherwise would not be able to login 
+
+after logging in as an admin at /admin/account/login (may require doing it again if it fails at first)
+    can go to the /admin page to see dashboard stuff
+
+can complete a checkout process with testing data for the credit card 
+will need an API key though
+    4111 1111 1111 1111 
+    10/25 
+    123
+    11111
